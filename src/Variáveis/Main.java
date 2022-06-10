@@ -5,9 +5,7 @@ public class Main {
     public static void main(String[] args) {
 
         int i;
-        //int i;
         int I;
-        //int 1a;
         int _1a;
         int $aq;
 
